@@ -35,9 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-					My research focuses on international cooperation and the political economy of environmental regulation and energy policy. I am particularly interested in how the domestic and international political economy and political incentives shape *governments'*, *firms'*, and *individuals'* responses to climate change and the global energy transformation.
+My research focuses on international cooperation and the political economy of environmental regulation and energy policy. I am particularly interested in how the domestic and international political economy and political incentives shape *governments'*, *firms'*, and *individuals'* responses to climate change and the global energy transformation.
 
-					Currently, I study the politics of carbon markets, firms' commitments to corporate decarbonisation, and the distributional effects of climate policy. I also lead an ESRC-funded project on the role of science in international climate cooperation. 
+Currently, I study the politics of carbon markets, firms' commitments to corporate decarbonisation, and the distributional effects of climate policy. I also lead an ESRC-funded project on the role of science in international climate cooperation. 
     design:
       columns: '1'
   - block: collection
