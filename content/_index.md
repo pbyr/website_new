@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My research focuses on international cooperation and the political economy of environmental regulation and energy policy. I am particularly interested in how the domestic and international political economy and political incentives shape *governments'*, *firms'*, and *individuals'* responses to climate change and the global energy transformation.
 
         I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
         
