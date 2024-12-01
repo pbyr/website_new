@@ -35,9 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-My research focuses on international cooperation and the political economy of environmental regulation and energy policy. I am particularly interested in how the domestic and international political economy and political incentives shape governments', firms', and individuals' responses to climate change and the global energy transformation.
+Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
 
-Currently, I study the politics of carbon markets, firms' commitments to corporate decarbonisation, and the distributional effects of climate policy. I also lead an ESRC-funded project on the role of science in international climate cooperation. 
+I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        
+Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection
