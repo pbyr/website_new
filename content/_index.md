@@ -37,9 +37,7 @@ sections:
       text: |-
         My research focuses on international cooperation and the political economy of environmental regulation and energy policy. I am particularly interested in how the domestic and international political economy and political incentives shape *governments'*, *firms'*, and *individuals'* responses to climate change and the global energy transformation.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        Currently, I study the politics of carbon markets, firms' commitments to corporate decarbonisation, and the distributional effects of climate policy. I also lead an [ESRC-funded project](https://gtr.ukri.org/projects?ref=ES%2FW001373%2F2) on the role of science in international climate cooperation.
     design:
       columns: '1'
   - block: collection
