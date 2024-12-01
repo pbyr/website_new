@@ -26,18 +26,16 @@ profiles:
   - icon: at-symbol
     url: 'mailto:patrick.bayer@glasgow.ac.uk'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  - icon: brands/bluesky
+    url: https://bsky.app/profile/patrickbayer.bsky.social
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/pbyr
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/patbayer/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=K-GUBrYAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0003-1731-1270
 
 interests:
   - Artificial Intelligence
