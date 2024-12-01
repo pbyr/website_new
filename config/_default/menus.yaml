@@ -10,7 +10,7 @@ main:
 #- name: CV
 #   weight: 10
 #   url: "https://www.dropbox.com/scl/fi/hbz84mtogvijxn0fbtmf3/CV_BAYER_current.pdf?rlkey=w2x9uucqfopbju9mkfnikwdja&dl=0"
-    weight: 20
+ #   weight: 20
   - name: Projects
     url: /#projects
     weight: 30
