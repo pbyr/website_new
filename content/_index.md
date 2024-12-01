@@ -9,8 +9,8 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: resume-biography-3
-    content:
+ # - block: resume-biography-3
+    #content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: ""
@@ -24,12 +24,12 @@ sections:
         #color: black
         #image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
+          #filename: stacked-peaks.svg
+          #filters:
+           # brightness: 1.0
+          #size: cover
+          #position: center
+          #parallax: false
   - block: markdown
     content:
       title: '📚 My Research'
