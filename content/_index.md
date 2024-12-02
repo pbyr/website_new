@@ -54,8 +54,9 @@ sections:
   - block: collection
     content:
       title: All Publications
-	  count: 50
       text: ""
+	   # Choose how many pages you would like to display (0 = all pages)
+      count: 30
       filters:
         folders:
           - publication
