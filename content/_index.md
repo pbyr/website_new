@@ -46,7 +46,7 @@ sections:
       title: Funded Research Projects
       filters:
         folders:
-          - funded_projects
+          - publications
         featured_only: true
     design:
       view: article-grid

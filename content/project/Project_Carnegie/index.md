@@ -1,6 +1,9 @@
 +++
 title = "The Sectoral Politics of Climate Policy: Domestic Conflict and UK Public Support for Ambitious Climate Action"
 
+tags:
+- Funding
+
 # Date first published.
 date = "2020-01-28"
 
