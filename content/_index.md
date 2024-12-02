@@ -55,14 +55,12 @@ sections:
     content:
       title: All Publications
       text: ""
-	   # Choose how many pages you would like to display (0 = all pages)
-      count: 0
       filters:
         folders:
           - publication
         exclude_featured: false
     design:
-      view: citation
+      view: compact
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
