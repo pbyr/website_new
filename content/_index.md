@@ -55,12 +55,13 @@ sections:
     content:
       title: All Publications
       text: ""
+      count: 50
       filters:
         folders:
           - publication
         exclude_featured: false
     design:
-      view: list
+      view: citation
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
