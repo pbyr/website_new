@@ -7,7 +7,7 @@ authors:
 - Erlend Hermansen
 author_notes:
 date: "2024-08-13"
-doi: "https://doi.org/10.1007/s10584-024-03790-7"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
