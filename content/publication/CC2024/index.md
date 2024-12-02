@@ -16,7 +16,7 @@ authors = ["Patrick Bayer", "Lorenzo Crippa", "Hannah Hughes", "Erlend Hermansen
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["2"]
+publication_types = ["article-journal"]
 
 # Publication name and optional abbreviated version.
 publication = "*Climatic Change* 177: 132."
