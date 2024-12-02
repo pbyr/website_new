@@ -19,6 +19,9 @@ publication: "*Climatic Change*, 177: 132"
 
 abstract: The Covid-19 pandemic challenged global governance in unprecedented ways by requiring intergovernmental meetings to be held online. For the Intergovernmental Panel on Climate Change (IPCC), this meant that the intergovernmental approval of the key findings of the Sixth Assessment Report (AR6) had to be conducted virtually. In this paper, we assess how the move away from face-to-face meetings affected country participation in IPCC approval sessions. Our findings demonstrate that virtual meetings increased the size of member governments' delegations, but this did not necessarily translate into a greater number of interventions during the approval of the Summary for Policymakers (SPM) as time zone differences reduced engagement levels significantly---particularly for countries from the Pacific, East Asian, and Latin American regions whose delegations often found themselves in IPCC meetings late at night and early in the morning. These results offer initial, empirically robust evidence about what online meetings can and cannot achieve for promoting more inclusive global governance at a time when the IPCC and other organizations reflect on the future use of virtual and hybrid meeting formats.
 
+
+
+
 featured: true
 
 # links:
