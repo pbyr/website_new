@@ -1,5 +1,5 @@
 ---
-title: "Distributional Consequences Shape Public Support for the EU Carbon Border Adjustment Mechanism: Evidence from four European countries"
+title: "Distributional Consequences Shape Public Support for the EU Carbon Border Adjustment Mechanism: Evidence from four European Countries"
 authors:
 - admin
 - Lena Schaffer
@@ -15,9 +15,9 @@ publication_types: ["article-journal"]
 # Publication name and optional abbreviated publication name.
 publication: "*Environmental Research Letters*, 19(8): 084040"
 
-abstract: The Covid-19 pandemic challenged global governance in unprecedented ways by requiring intergovernmental meetings to be held online. For the Intergovernmental Panel on Climate Change (IPCC), this meant that the intergovernmental approval of the key findings of the Sixth Assessment Report (AR6) had to be conducted virtually. In this paper, we assess how the move away from face-to-face meetings affected country participation in IPCC approval sessions. Our findings demonstrate that virtual meetings increased the size of member governments' delegations, but this did not necessarily translate into a greater number of interventions during the approval of the Summary for Policymakers (SPM) as time zone differences reduced engagement levels significantly---particularly for countries from the Pacific, East Asian, and Latin American regions whose delegations often found themselves in IPCC meetings late at night and early in the morning. These results offer initial, empirically robust evidence about what online meetings can and cannot achieve for promoting more inclusive global governance at a time when the IPCC and other organizations reflect on the future use of virtual and hybrid meeting formats.
+abstract: A carbon border adjustment mechanism (CBAM) is a policy that increases the cost of carbon-intensive imports from countries with no or weak national carbon regulation. Proponents advocate that it helps avoid industrial relocation and protects jobs in the importing country; its critics say that it impedes free trade and drives up prices. Despite European Union legislation to introduce a CBAM policy, we find that citizens across four European countries—Germany (n = 3500), Hungary (n = 2512), Switzerland (n = 2500), and the United Kingdom (n = 2500)—have not formed clear opinions about the policy yet. Results from survey experiments, conducted over the course of 1.5 years, show a strong dislike for price increases associated with a carbon border tax, while the prospect of job protection does little to increase CBAM support—not even among subgroups most affected by import competition. However, employment effects become relevant when we prompt survey respondents to assess the effects of the carbon border tax for their country as a whole instead of for themselves as individuals. Consistent with exploratory findings that right-leaning voters express a much stronger opposition to the CBAM policy, our results speak to growing evidence of the politically polarizing nature of costly, green policies when citizens' policy preferences are malleable.
 
-featured: true
+featured: false
 
 # links:
 # - name: ""
