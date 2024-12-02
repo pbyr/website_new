@@ -28,7 +28,7 @@ abstract: The Covid-19 pandemic challenged global governance in unprecedented wa
 
 tags:
 #- Source Themes
-#featured: true
+featured: true
 
 # links:
 # - name: ""
