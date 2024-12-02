@@ -43,17 +43,17 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Funded Research Projects
+      title: Selected Publications
       filters:
         folders:
-          - publications
+          - publication
         featured_only: true
     design:
       view: article-grid
       columns: 3
   - block: collection
     content:
-      title: Recent Publications
+      title: All Publications
       text: ""
       filters:
         folders:
