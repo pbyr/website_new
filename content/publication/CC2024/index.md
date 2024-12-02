@@ -19,7 +19,7 @@ authors = ["Patrick Bayer", "Lorenzo Crippa", "Hannah Hughes", "Erlend Hermansen
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Climatic Change* 177: 132. [[PDF](https://link.springer.com/article/10.1007/s10584-024-03790-7)] [[Data and code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SLSXZS)]"
+publication = "*Climatic Change* 177: 132."
 
 # publication_short = "In *ICA*"
 
@@ -40,10 +40,10 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://link.springer.com/article/10.1007/s10584-024-03790-7"
 url_preprint = ""
 url_code = ""
-url_dataset = ""
+url_dataset = "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SLSXZS"
 url_project = ""
 url_slides = ""
 url_video = ""
