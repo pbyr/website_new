@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'Research Interests'
       subtitle: ''
       text: |-
         My research focuses on international cooperation and the political economy of environmental regulation and energy policy. I am particularly interested in how the domestic and international political economy and political incentives shape *governments'*, *firms'*, and *individuals'* responses to climate change and the global energy transformation.
@@ -43,14 +43,14 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Funded Research Projects
       filters:
         folders:
-          - publication
+          - funded_projects
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: 3
   - block: collection
     content:
       title: Recent Publications
