@@ -54,6 +54,7 @@ sections:
   - block: collection
     content:
       title: All Publications
+	  count: 50
       text: ""
       filters:
         folders:
