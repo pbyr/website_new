@@ -20,7 +20,7 @@ sections:
         url: uploads/cv.pdf
     design:
       css_class: dark
-      background:
+      background: minimal
         color:
         image:
           # Add your image background to `assets/media/`.
