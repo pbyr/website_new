@@ -1,12 +1,10 @@
 ---
-title: "Government Participation in Virtual Negotiations: Evidence from IPCC Approval Sessions"
+title: "Foreignness as an Asset: European Carbon Regulation and the Relocation Threat among Multinational Firms"
 authors:
 - admin
-- Lorenzo Crippa
-- Hannah Hughes
-- Erlend Hermansen
+
 author_notes:
-date: "2024-08-13"
+date: "2023-09-27"
 doi: ""
 
 # Publication type.
