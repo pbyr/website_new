@@ -22,8 +22,12 @@ abstract: The first comprehensive political science account of energy poverty, a
 featured: false
 
 # links:
- - name: "Buy"
-  url: https://mitpress.mit.edu/books/escaping-energy-poverty-trap
+
+ [[url_custom]]
+name = "Publisher Page"
+url = "https://mitpress.mit.edu/books/escaping-energy-poverty-trap" 
+  
+  
 url_pdf: 
 url_code: 
 url_dataset: 
