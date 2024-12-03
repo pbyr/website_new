@@ -22,7 +22,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.dropbox.com/s/2zlakotoa7iap85/BayerGenovese_FINAL.pdf?dl=0
+url_pdf: https://direct.mit.edu/glep/article-abstract/20/4/28/95070/Beliefs-About-Consequences-from-Climate-Action?redirectedFrom=fulltext
 url_code: 
 url_dataset: https://doi.org/10.7910/DVN/UWEXVS
 url_poster: ''
