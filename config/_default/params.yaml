@@ -39,7 +39,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-    #  text: "Patrick Bayer, PhD"
+    text: ""
     # Display your site title or `assets/media/logo*` image in the nav bar?
     show_logo: true
 
