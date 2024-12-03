@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/cv.pdf
     design:
       css_class: dark
       background:
@@ -30,16 +30,6 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      title: 'Research Interests'
-      subtitle: ''
-      text: |-
-        My research focuses on international cooperation and the political economy of environmental regulation and energy policy. I am particularly interested in how the domestic and international political economy and political incentives shape *governments'*, *firms'*, and *individuals'* responses to climate change and the global energy transformation.
-
-        Currently, I study the politics of carbon markets, firms' commitments to corporate decarbonisation, and the distributional effects of climate policy. I also lead an [ESRC-funded project](https://gtr.ukri.org/projects?ref=ES%2FW001373%2F2) on the role of science in international climate cooperation.
-    design:
-      columns: '1'
   - block: collection
     id: papers
     content:
