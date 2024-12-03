@@ -1,63 +1,36 @@
-+++
-title = "Funding Global Public Goods: The Dark Side of Multilateralism"
-
-# Date first published.
-date = "2013-03-05"
-
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Patrick Bayer", "Johannes Urpelainen"]
+---
+title: "Beliefs about Climate Action Consequences under Weak Global Institutions: Sectors, Home Bias, and International Embeddedness"
+authors:
+- admin
+- Federica Genovese
+author_notes:
+date: "2020-07-14"
+doi: ""
 
 # Publication type.
-# Legend:
-# 0 = Uncategorized
-# 1 = Conference proceedings
-# 2 = Journal
-# 3 = Work in progress
-# 4 = Technical report
-# 5 = Book
-# 6 = Book chapter
-publication_types = ["2"]
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ["article-journal"]
 
-# Publication name and optional abbreviated version.
-publication = "*Review of Policy Research* 30(2):160-189. [[PDF](https://onlinelibrary.wiley.com/doi/abs/10.1111/ropr.12013)]"
-# publication_short = "In *ICA*"
+# Publication name and optional abbreviated publication name.
+publication: "*Global Environmental Politics*, 20(4): 28-50"
 
-# Abstract and optional shortened version.
-abstract = "The funding of global public goods, such as climate mitigation, presents a complex strategic problem. Potential recipients demand side payments for implementing projects that furnish global public goods, and donors can cooperate to provide the funding. We offer a game-theoretic analysis of this problem. In our model, a recipient demands project funding. Donors can form a multilateral program to jointly fund the project. If no program is formed, bilateral funding remains a possibility. We find that donors rely on multilateralism if their preferences are relatively symmetric and domestic political constraints on funding are lax. In this case, the recipient secures large rents from project implementation. Thus, even donors with strong interests in global public good provision have incentives to oppose institutional arrangements that promote multilateral funding. These incentives have played an important role in multilateral negotiations on climate finance, especially in Cancun (2010) and Durban (2011)."
-# abstract_short = "A short version of the abstract."
+abstract: Climate policy has distributional effects, so ratcheting up climate ambition over time will only become politically feasible if the general public believes that their country can win from ambitious climate action. In this paper, we develop a theory of belief formation which anchors distributional effects from climate action at the sector level. Specifically, we study how knowing about these impacts shapes public beliefs about collective economic consequences from climate policy---not only in a home country but also abroad. Findings from a nationally representative survey experiment in the United Kingdom demonstrate that respondents are biased towards their home country in assessing information about winning and losing sectors. While beliefs brighten for good news and worsen for bad news when home country information is provided, distributional effects from abroad are discounted for belief formation. We also show that feelings of international embeddedness, akin to globalization attitudes, make respondents consistently hold more positive beliefs that the UK can benefit from ambitious climate action. Ruling out several alternative explanations, these results offer a first step towards a better understanding of how distributional effects in one issue area, such as globalization, can spill over to other issue areas, such as climate change.
 
-# Featured image thumbnail (optional)
-image_preview = ""
+featured: false
 
-# Is this a selected publication? (true/false)
-selected = true
-
-# Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-#   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = []
-
-# Links (optional).
-# url_custom = {[name="custom link", url="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LVPPP7"],
-#             [name="link 2", url="https://www.sciencedirect.com/science/article/pii/S030142151930686X?via%3Dihub"]}
+# links:
+# - name: ""
+#   url: ""
+url_pdf: https://www.dropbox.com/s/2zlakotoa7iap85/BayerGenovese_FINAL.pdf?dl=0
+url_code: 
+url_dataset: https://doi.org/10.7910/DVN/UWEXVS
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+---
 
 
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
- 
 
-
-# Does the content use math formatting?
-math = true
-
-# Does the content use source code highlighting?
-highlight = true
-
-# Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-#image = "headers/bubbles-wide.jpg"
-#caption = "My caption 😄"
-
-+++

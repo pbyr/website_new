@@ -1,63 +1,36 @@
-+++
-title = "External Sources of Clean Technology: Evidence from the Clean Development Mechanism"
-
-# Date first published.
-date = "2013-03-15"
-
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Patrick Bayer", "Johannes Urpelainen"]
+---
+title: "Beliefs about Climate Action Consequences under Weak Global Institutions: Sectors, Home Bias, and International Embeddedness"
+authors:
+- admin
+- Federica Genovese
+author_notes:
+date: "2020-07-14"
+doi: ""
 
 # Publication type.
-# Legend:
-# 0 = Uncategorized
-# 1 = Conference proceedings
-# 2 = Journal
-# 3 = Work in progress
-# 4 = Technical report
-# 5 = Book
-# 6 = Book chapter
-publication_types = ["2"]
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ["article-journal"]
 
-# Publication name and optional abbreviated version.
-publication = "*Review of International Organizations* 8(1):81-109. [[PDF](https://onlinelibrary.wiley.com/doi/abs/10.1111/ropr.12013)] [[Data and code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/C8IP7R)]"
-# publication_short = "In *ICA*"
+# Publication name and optional abbreviated publication name.
+publication: "*Global Environmental Politics*, 20(4): 28-50"
 
-# Abstract and optional shortened version.
-abstract = "New technology is fundamental to sustainable development. However, inventors from industrialized countries often refuse technology transfer because they worry about reverse-engineering. When can clean technology transfer succeed? We develop a formal model of the political economy of North–South technology transfer. According to the model, technology transfer is possible if (1) the technology in focus has limited global commercial potential or (2) the host developing country does not have the capacity to absorb new technologies for commercial use. If both conditions fail, inventors from industrialized countries worry about the adverse competitiveness effects of reverse-engineering, so technology transfer fails. Data analysis of technology transfer in 4894 projects implemented under the Kyoto Protocol's Clean Development Mechanism during the 2004–2010 period provides evidence in support of the model."
-# abstract_short = "A short version of the abstract."
+abstract: Climate policy has distributional effects, so ratcheting up climate ambition over time will only become politically feasible if the general public believes that their country can win from ambitious climate action. In this paper, we develop a theory of belief formation which anchors distributional effects from climate action at the sector level. Specifically, we study how knowing about these impacts shapes public beliefs about collective economic consequences from climate policy---not only in a home country but also abroad. Findings from a nationally representative survey experiment in the United Kingdom demonstrate that respondents are biased towards their home country in assessing information about winning and losing sectors. While beliefs brighten for good news and worsen for bad news when home country information is provided, distributional effects from abroad are discounted for belief formation. We also show that feelings of international embeddedness, akin to globalization attitudes, make respondents consistently hold more positive beliefs that the UK can benefit from ambitious climate action. Ruling out several alternative explanations, these results offer a first step towards a better understanding of how distributional effects in one issue area, such as globalization, can spill over to other issue areas, such as climate change.
 
-# Featured image thumbnail (optional)
-image_preview = ""
+featured: false
 
-# Is this a selected publication? (true/false)
-selected = true
-
-# Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-#   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = []
-
-# Links (optional).
-# url_custom = {[name="custom link", url="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LVPPP7"],
-#             [name="link 2", url="https://www.sciencedirect.com/science/article/pii/S030142151930686X?via%3Dihub"]}
+# links:
+# - name: ""
+#   url: ""
+url_pdf: https://www.dropbox.com/s/2zlakotoa7iap85/BayerGenovese_FINAL.pdf?dl=0
+url_code: 
+url_dataset: https://doi.org/10.7910/DVN/UWEXVS
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+---
 
 
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
- 
 
-
-# Does the content use math formatting?
-math = true
-
-# Does the content use source code highlighting?
-highlight = true
-
-# Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-#image = "headers/bubbles-wide.jpg"
-#caption = "My caption 😄"
-
-+++
