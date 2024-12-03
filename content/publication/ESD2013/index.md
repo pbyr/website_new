@@ -1,63 +1,34 @@
-+++
-title = "The Political Economy of Energy Access: Survey Evidence from India on State Intervention and Public Opinion"
-
-# Date first published.
-date = "2015-11-15"
-
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Micha&eumll Aklin", "Patrick Bayer", "S.P. Harish", "Johannes Urpelainen"]
+---
+title: "Global Patterns of Renewable Energy Innovation, 1990–2009"
+authors:
+- admin
+- Lindsay Dolan
+- Johannes Urpelainen
+author_notes:
+date: "2013-06-15"
+doi: ""
 
 # Publication type.
-# Legend:
-# 0 = Uncategorized
-# 1 = Conference proceedings
-# 2 = Journal
-# 3 = Work in progress
-# 4 = Technical report
-# 5 = Book
-# 6 = Book chapter
-publication_types = ["2"]
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ["article-journal"]
 
-# Publication name and optional abbreviated version.
-publication = "*Energy Research & Social Science* 94:28-36. [[PDF](https://www.sciencedirect.com/science/article/pii/S2214629615300128)] [[Data and code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ANE5F6)]"
-# publication_short = "In *ICA*"
+# Publication name and optional abbreviated publication name.
+publication: "*Energy for Sustainable Development* 17(3):288-295"
 
-# Abstract and optional shortened version.
-abstract = "In India, where energy access is limited, how does the public react to the government's inability to provide citizens with basic energy services, such as electricity and clean cooking fuel? We answer this question using a survey conducted in two rural villages of Uttar Pradesh. First, we examine the association between a respondent's opinion on state intervention and policy failure. Specifically, we focus on whether people who believe in state intervention are likely to have lower levels of satisfaction with the government's energy access policies. Second, we examine the link between policy failure and the likelihood that people consider a political candidate's energy views in voting. We find that people's preference for government intervention has a negative effect on satisfaction levels with government policies, and that people who blame the government for policy failures are less likely to take a political candidate's energy policies into account when voting."
-# abstract_short = "A short version of the abstract."
+abstract: Cost-effective approaches to mitigating climate change depend on advances in clean energy technologies, such as solar and wind power. Given increased technology innovation in developing countries, led by China, we focus our attention on global patterns of renewable energy innovation. Utilizing highly valuable international patents as our indicator of innovation, we examine the economic and political determinants of energy innovation in 74 countries across the world, 1990–2009. We find that high oil prices and domestic renewable electricity generation capacity both increase innovation. There is no effect for corruption, but our findings suggest that democratic institutions may contribute to innovation. The main implication of our work for policymakers is that increasing renewable electricity capacity in developing countries could significantly contribute to global innovation in renewable energy.
 
-# Featured image thumbnail (optional)
-image_preview = ""
+featured: false
 
-# Is this a selected publication? (true/false)
-selected = true
-
-# Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-#   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = []
-
-# Links (optional).
-# url_custom = {[name="custom link", url="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LVPPP7"],
-#             [name="link 2", url="https://www.sciencedirect.com/science/article/pii/S030142151930686X?via%3Dihub"]}
-
-
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
- 
-
-
-# Does the content use math formatting?
-math = true
-
-# Does the content use source code highlighting?
-highlight = true
-
-# Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-#image = "headers/bubbles-wide.jpg"
-#caption = "My caption 😄"
-
-+++
+# links:
+# - name: ""
+#   url: ""
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0973082613000094
+url_code: 
+url_dataset: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/5NYEQN
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+---
