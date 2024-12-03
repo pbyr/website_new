@@ -21,6 +21,9 @@ abstract: The Covid-19 pandemic challenged global governance in unprecedented wa
 
 featured: true
 
+tags: 
+- Climatic Change
+
 # links:
 # - name: ""
 #   url: ""

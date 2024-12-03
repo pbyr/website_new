@@ -33,7 +33,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Selected Publications
+      title: Latest Publications
       filters:
         folders:
           - publication
