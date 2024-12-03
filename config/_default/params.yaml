@@ -58,3 +58,11 @@ features:
     enable: false
   privacy_pack:
     enable: false
+    
+    
+ # Link authors to their profile page? (true/false)
+link_authors = false
+
+# Choose a font size.
+# Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
+font_size = "S"
