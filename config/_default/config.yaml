@@ -2,9 +2,3 @@ cascade:
   - _target:
       path: /publication/**
     share: false
-    
-    
- cascade:
-  - _target:
-      path: /publication/**
-    profile: false
