@@ -13,18 +13,18 @@ doi: ""
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Climatic Change*, 177: 132"
+publication: "*Journal of Politics*, 85(4): 1291-1304"
 
-abstract: A central claim in the environmental regulation literature is that, in a globalized world economy, governments are willing to offer favorable regulation to firms that threaten to move their operations abroad. This logic, however, overlooks that firms’ relocation threats are not equally credible. Focusing on variation in ownership structure, I argue that, even among generally mobile multinational corporations (MNCs), their foreign operations are more credibly movable, and hence more favorably regulated, than their operations at home. MNCs' country-specific investments into the economy and politics of their home markets drive this difference in relative mobility. An empirical analysis that relies on within-firm variation in ownership of MNCs’ production sites across European countries and original plant-level carbon regulation data strongly support my argument: foreign ownership becomes an asset for favorable regulation. These findings highlight the need to account for mobility differences among MNCs.
+abstract: A central claim in the environmental regulation literature is that, in a globalized world economy, governments are willing to offer favorable regulation to firms that threaten to move their operations abroad. This logic, however, overlooks that firms’ relocation threats are not equally credible. Focusing on variation in ownership structure, I argue that, even among generally mobile multinational corporations (MNCs), their foreign operations are more credibly movable, and hence more favorably regulated, than their operations at home. MNCs' country-specific investments into the economy and politics of their home markets drive this difference in relative mobility. An empirical analysis that relies on within-firm variation in ownership of MNCs' production sites across European countries and original plant-level carbon regulation data strongly support my argument: foreign ownership becomes an asset for favorable regulation. These findings highlight the need to account for mobility differences among MNCs.
 
 featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://link.springer.com/article/10.1007/s10584-024-03790-7
+url_pdf: https://www.journals.uchicago.edu/doi/abs/10.1086/724963
 url_code: 
-url_dataset: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SLSXZS
+url_dataset: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LAXOSG
 url_poster: ''
 url_project: ''
 url_slides: ''
