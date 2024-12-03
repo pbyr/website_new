@@ -23,11 +23,10 @@ featured: false
 
 # links:
 
- [[url_custom]]
-name = "Publisher Page"
+- name = "Publisher Page"
 url = "https://mitpress.mit.edu/books/escaping-energy-poverty-trap" 
   
-  
+
 url_pdf: 
 url_code: 
 url_dataset: 
