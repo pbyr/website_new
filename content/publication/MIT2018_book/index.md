@@ -23,7 +23,7 @@ featured: false
 
 # links:
  - name: "Buy"
-  url: "https://mitpress.mit.edu/books/escaping-energy-poverty-trap"
+  url: https://mitpress.mit.edu/books/escaping-energy-poverty-trap
 url_pdf: 
 url_code: 
 url_dataset: 
