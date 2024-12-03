@@ -1,11 +1,11 @@
 +++
-title = "Global Patterns of Renewable Energy Innovation, 1990–2009"
+title = "The Political Economy of Energy Access: Survey Evidence from India on State Intervention and Public Opinion"
 
 # Date first published.
-date = "2013-06-15"
+date = "2015-11-15"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Patrick Bayer", "Lindsay Dolan", "Johannes Urpelainen"]
+authors = ["Micha&eumll Aklin", "Patrick Bayer", "S.P. Harish", "Johannes Urpelainen"]
 
 # Publication type.
 # Legend:
@@ -19,11 +19,11 @@ authors = ["Patrick Bayer", "Lindsay Dolan", "Johannes Urpelainen"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Energy for Sustainable Development* 17(3):288-295. [[PDF](https://www.sciencedirect.com/science/article/pii/S0973082613000094)] [[Data and code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/5NYEQN)]"
+publication = "*Energy Research & Social Science* 94:28-36. [[PDF](https://www.sciencedirect.com/science/article/pii/S2214629615300128)] [[Data and code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ANE5F6)]"
 # publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
-abstract = "Cost-effective approaches to mitigating climate change depend on advances in clean energy technologies, such as solar and wind power. Given increased technology innovation in developing countries, led by China, we focus our attention on global patterns of renewable energy innovation. Utilizing highly valuable international patents as our indicator of innovation, we examine the economic and political determinants of energy innovation in 74 countries across the world, 1990–2009. We find that high oil prices and domestic renewable electricity generation capacity both increase innovation. There is no effect for corruption, but our findings suggest that democratic institutions may contribute to innovation. The main implication of our work for policymakers is that increasing renewable electricity capacity in developing countries could significantly contribute to global innovation in renewable energy."
+abstract = "In India, where energy access is limited, how does the public react to the government's inability to provide citizens with basic energy services, such as electricity and clean cooking fuel? We answer this question using a survey conducted in two rural villages of Uttar Pradesh. First, we examine the association between a respondent's opinion on state intervention and policy failure. Specifically, we focus on whether people who believe in state intervention are likely to have lower levels of satisfaction with the government's energy access policies. Second, we examine the link between policy failure and the likelihood that people consider a political candidate's energy views in voting. We find that people's preference for government intervention has a negative effect on satisfaction levels with government policies, and that people who blame the government for policy failures are less likely to take a political candidate's energy policies into account when voting."
 # abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)

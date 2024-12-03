@@ -1,12 +1,11 @@
 +++
-title = "Shades of Darkness or Light? A Systematic Review of Geographic Bias in Impact Evaluations of Electricity Access"
-
+title = "The Political Economy of Energy Access: Survey Evidence from India on State Intervention and Public Opinion"
 
 # Date first published.
-date = "2019-08-27"
+date = "2015-11-15"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["David Hamburger", "Joel Jaeger", "Patrick Bayer", "Ryan Kennedy", "Joonseok Yang", "Johannes Urpelainen"]
+authors = ["Micha&eumll Aklin", "Patrick Bayer", "S.P. Harish", "Johannes Urpelainen"]
 
 # Publication type.
 # Legend:
@@ -20,18 +19,18 @@ authors = ["David Hamburger", "Joel Jaeger", "Patrick Bayer", "Ryan Kennedy", "J
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Energy Research & Social Science* 58: 101236. [[PDF](https://www.sciencedirect.com/science/article/pii/S2214629619301665)] [[Data and code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/7K3RJC)]" 
+publication = "*Energy Research & Social Science* 94:28-36. [[PDF](https://www.sciencedirect.com/science/article/pii/S2214629615300128)] [[Data and code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ANE5F6)]"
 # publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
-abstract = "Despite the growing use of impact evaluations for electrification interventions, little attention has been paid to the geographical distribution of such evaluations. This is concerning because cultural and regional differences may limit how transferable results across regions are. We undertake a systematic review of the literature and find 31 impact evaluations of electricity access in 16 countries that meet our criteria for statistical hypothesis testing of development outcomes. India accounts for a quarter of the impact evaluations. Given the large non-electrified population in India, this is still a small number, roughly comparable to Nigeria or Kenya. South Asia and sub-Saharan Africa are the most underrepresented regions. We find more positive impacts from electricity access, on average, for South Asia than for sub-Saharan Africa, which calls for greater attention to geographic bias in future impact evaluations of electrification access."
+abstract = "In India, where energy access is limited, how does the public react to the government's inability to provide citizens with basic energy services, such as electricity and clean cooking fuel? We answer this question using a survey conducted in two rural villages of Uttar Pradesh. First, we examine the association between a respondent's opinion on state intervention and policy failure. Specifically, we focus on whether people who believe in state intervention are likely to have lower levels of satisfaction with the government's energy access policies. Second, we examine the link between policy failure and the likelihood that people consider a political candidate's energy views in voting. We find that people's preference for government intervention has a negative effect on satisfaction levels with government policies, and that people who blame the government for policy failures are less likely to take a political candidate's energy policies into account when voting."
 # abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -40,20 +39,15 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = ""
-url_preprint = ""
-url_code = ""
-url_dataset = ""
-url_project = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
+# url_custom = {[name="custom link", url="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LVPPP7"],
+#             [name="link 2", url="https://www.sciencedirect.com/science/article/pii/S030142151930686X?via%3Dihub"]}
+
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Dataverse", url = "http://example.org"}]
  
+
+
 # Does the content use math formatting?
 math = true
 
