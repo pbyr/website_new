@@ -7,6 +7,8 @@
 appearance:
   mode: system
   color: emerald
+  font: minimal
+  font_size: S
 
 # SEO
 marketing:
@@ -60,9 +62,5 @@ features:
     enable: false
     
     
- # Link authors to their profile page? (true/false)
+ # Deletes profile from publication pages
 profile: false
-
-# Choose a font size.
-# Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size: XS
