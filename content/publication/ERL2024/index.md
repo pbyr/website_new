@@ -19,6 +19,9 @@ abstract: A carbon border adjustment mechanism (CBAM) is a policy that increases
 
 featured: true
 
+tags:
+- Environmental Research Letters
+
 # links:
 # - name: ""
 #   url: ""

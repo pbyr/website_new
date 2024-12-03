@@ -19,6 +19,9 @@ abstract: A central claim in the environmental regulation literature is that, in
 
 featured: true
 
+tags:
+- Journal of Politics
+
 # links:
 # - name: ""
 #   url: ""
