@@ -14,6 +14,9 @@ doi: ""
 # Enter a publication type from the CSL standard.
 publication_types: ["article-journal"]
 
+tags: 
+- Carnegie Trust
+
 # Publication name and optional abbreviated publication name.
 publication: "*Climatic Change*, 177: 132"
 
