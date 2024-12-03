@@ -38,7 +38,7 @@ header:
     fixed_to_top: true
     show_search: true
     show_theme_chooser: true
-    #logo:
+    logo:
     #  text: "Patrick Bayer, PhD"
     # Display your site title or `assets/media/logo*` image in the nav bar?
     show_logo: true
