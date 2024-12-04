@@ -31,15 +31,16 @@ marketing:
 # Site header
 header:
   navbar:
+    block: navbar
     enable: true
-    blox: "navbar"
-    fixed_to_top: true
-    show_search: true
-    show_theme_chooser: true
+    show_logo: true
+    #fixed_to_top: true
+    #show_search: true
+    #show_theme_chooser: true
     #logo:
     #text: 
     # Display your site title or `assets/media/logo*` image in the nav bar?
-    show_logo: true
+    
 
 # Site footer
 footer:
