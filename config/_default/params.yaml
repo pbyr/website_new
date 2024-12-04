@@ -43,10 +43,8 @@ header:
     show_theme_chooser: true
     logo:
       # Logo text
-      text: "TEST"
-      # Logo filename in `assets/media/` folder
+     text: "TEST"
      filename: "stacked-peaks.svg"
-    
 
 # Site footer
 footer:
