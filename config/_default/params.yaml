@@ -44,7 +44,7 @@ header:
     logo:
       # Logo text
      text: ""
-     filename: "stacked-peaks.svg"
+     filename: "logo.png"
 
 # Site footer
 footer:
