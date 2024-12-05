@@ -1,7 +1,7 @@
 ---
 title: "Government Participation in Virtual Negotiations: Evidence from IPCC Approval Sessions"
 authors:
-- ** Patrick Bayer **
+- "** Patrick Bayer **"
 - Lorenzo Crippa
 - Hannah Hughes
 - Erlend Hermansen
