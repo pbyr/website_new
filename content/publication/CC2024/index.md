@@ -1,11 +1,10 @@
 ---
 title: "Government Participation in Virtual Negotiations: Evidence from IPCC Approval Sessions"
-#authors:
-#- admin
-#- Lorenzo Crippa
-#- Hannah Hughes
-#- Erlend Hermansen
-author_list: <b> Patrick Bayer </b>, Lorenzo Crippa
+authors:
+- admin
+- Lorenzo Crippa
+- Hannah Hughes
+- Erlend Hermansen
 author_notes:
 date: "2024-08-13"
 doi: ""
@@ -14,9 +13,6 @@ doi: ""
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
 publication_types: ["article-journal"]
-
-tags: 
-- Carnegie Trust
 
 # Publication name and optional abbreviated publication name.
 publication: "*Climatic Change*, 177: 132"
