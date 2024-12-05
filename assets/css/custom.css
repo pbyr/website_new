@@ -3,7 +3,7 @@
 body {background-color: white;}
 
 /* Deactivates underlined links */
-a:visited, a:link, a:active
+a:hover,a:visited,a:active
 {
     text-decoration: none;
 }
