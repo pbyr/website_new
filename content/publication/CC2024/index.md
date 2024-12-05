@@ -5,7 +5,7 @@ title: "Government Participation in Virtual Negotiations: Evidence from IPCC App
 #- Lorenzo Crippa
 #- Hannah Hughes
 #- Erlend Hermansen
-author_list: "<b> Patrick Bayer </b>, Lorenzo Crippa"
+author_list: <b> Patrick Bayer </b>, Lorenzo Crippa
 author_notes:
 date: "2024-08-13"
 doi: ""
