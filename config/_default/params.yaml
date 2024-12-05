@@ -73,6 +73,6 @@ features:
 profile: false
 
 # Avatar
-avatar:
-    gravatar: false
-    shape: square
+#avatar:
+#    gravatar: false
+#    shape: square
