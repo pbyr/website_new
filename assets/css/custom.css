@@ -5,14 +5,14 @@ body {background-color: white;}
 /* Deactivates underlined links */
 /* a:hover,a:visited,a:links,a:active*/ 
 
-/*a:hover,a:visited,a:active
+*a:hover,a:visited,a:links, a:active
 {
     text-decoration: none;
-}*/
-
-about {
-	text-decoration: none	
 }
+
+/* about {
+	text-decoration: none	
+} */
 
 /* Makes profile picture square */
 .avatar {
