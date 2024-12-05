@@ -39,8 +39,8 @@ header:
     align: "center"
     # Fix the navigation bar to the top of the page
     fixed_to_top: true
-    show_search: true
-    show_theme_chooser: true
+    show_search: false
+    show_theme_chooser: false
     logo:
       # Logo text
      text: ""
@@ -71,14 +71,3 @@ features:
     
  # Deletes profile from publication pages
 profile: false
-
-
-# Avatars.
-# An avatar is an image that appears next to a user's name.
-# An avatar can be uploaded as an image named `avatar` to each user's profile or fetched from Gravatar.com.
-[avatar]
-  # Get user avatars from Gravatar.com? (true/false)
-  gravatar: false
-
-  # Choose a shape for avatar images. Options: circle, square.
-  shape: "square"
