@@ -71,3 +71,8 @@ features:
     
  # Deletes profile from publication pages
 profile: false
+
+# Avatar
+avatar:
+    gravatar: false
+    shape: square

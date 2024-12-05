@@ -20,7 +20,6 @@ sections:
         url: uploads/cv.pdf
     design:
       css_class: custom.css
-	  css_style:
       background: 
         color: black
         image:
