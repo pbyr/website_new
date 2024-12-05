@@ -71,3 +71,7 @@ features:
     
  # Deletes profile from publication pages
 profile: false
+
+  # Link the authors of the publication to the list of publication made by this author
+publications:
+  links_authors: false
