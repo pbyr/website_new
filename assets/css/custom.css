@@ -1,7 +1,14 @@
 
+/* Background color set to white */
 body {background-color: white;}
 
+/* Deactivates underlined links */
 a:hover, a:visited, a:link, a:active
 {
     text-decoration: none;
+}
+
+/* Makes profile picture square */
+.portrait {
+border-radius: initial !important;
 }
