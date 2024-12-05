@@ -1,10 +1,10 @@
 ---
 title: "Government Participation in Virtual Negotiations: Evidence from IPCC Approval Sessions"
 authors:
-- "** Patrick Bayer **
+- **admin**
 - Lorenzo Crippa
 - Hannah Hughes
-- Erlend Hermansen"
+- Erlend Hermansen
 author_notes:
 date: "2024-08-13"
 doi: ""
