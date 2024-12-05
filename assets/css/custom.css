@@ -9,6 +9,6 @@ a:hover, a:visited, a:link, a:active
 }
 
 /* Makes profile picture square */
-.portrait {
+.avatar {
 border-radius: initial !important;
 }
