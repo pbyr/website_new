@@ -20,6 +20,10 @@ sections:
         url: uploads/cv.pdf
     design:
       css_class: dark
+	  css_style: "a:hover,a:visited,a:link, a:active
+							{
+								text-decoration: none;
+							}"
       background: 
         color: black
         image:
