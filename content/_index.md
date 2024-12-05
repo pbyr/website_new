@@ -19,8 +19,8 @@ sections:
         text: Download CV
         url: uploads/cv.pdf
     design:
-      css_class: dark
-	  css_style: custom.css
+      css_class: custom.css
+	  css_style: dark
       background: 
         color: black
         image:
