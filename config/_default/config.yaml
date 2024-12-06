@@ -2,3 +2,5 @@ cascade:
   - _target:
       path: /publication/**
     share: false
+    
+disableKinds = ["taxonomy", "taxonomyTerm"]
