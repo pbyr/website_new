@@ -1,5 +1,5 @@
 ---
-title: "Foreignness as an Asset: European Carbon Regulation and the Relocation Threat among Multinational Firms"
+title: "<u>Foreignness as an Asset: European Carbon Regulation and the Relocation Threat among Multinational Firms</u>"
 authors:
 - admin
 
