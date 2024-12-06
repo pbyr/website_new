@@ -1,7 +1,7 @@
 ---
 title: "Foreignness as an Asset: European Carbon Regulation and the Relocation Threat among Multinational Firms"
 authors:
-- __admin__
+- admin
 
 author_notes:
 date: "2023-09-27"
