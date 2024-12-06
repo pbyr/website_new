@@ -3,7 +3,7 @@ title: "Government Participation in Virtual Negotiations: Evidence from IPCC App
 authors:
 - admin
 - Lorenzo Crippa
-- __Hannah__ __Hughes__
+- Hannah Hughes
 - Erlend Hermansen
 author_notes:
 date: "2024-08-13"
