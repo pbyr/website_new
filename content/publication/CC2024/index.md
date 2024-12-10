@@ -1,10 +1,17 @@
 ---
 title: "Government Participation in Virtual Negotiations: Evidence from IPCC Approval Sessions"
-authors:
-- admin
-- Lorenzo Crippa
-- Hannah Hughes
-- Erlend Hermansen
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["Patrick Bayer", "Lorenzo Crippa", "**Hannah Hughes**", "Erlend Hermansen"]
+
+#authors:
+#- admin
+#- Lorenzo Crippa
+#- Hannah Hughes
+#- Erlend Hermansen
+
+
+
 author_notes:
 date: "2024-08-13"
 doi: ""
