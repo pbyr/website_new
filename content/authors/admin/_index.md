@@ -25,16 +25,19 @@ organizations:
 profiles:
   - icon: envelope
     url: 'mailto:patrick.bayer@glasgow.ac.uk'
-  - icon: brands/bluesky
-    url: https://bsky.app/profile/patrickbayer.bsky.social
-  - icon: brands/github
-    url: https://github.com/pbyr
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/patbayer/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=K-GUBrYAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/0000-0003-1731-1270
+  - icon: brands/bluesky
+    url: https://bsky.app/profile/patrickbayer.bsky.social
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/patbayer/
+  - icon: brands/github
+    url: https://github.com/pbyr
+
+
+
 ---
 
 ## Welcome
