@@ -40,7 +40,7 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 4
+      columns: 3
   - block: collection
     content:
       title: All Publications

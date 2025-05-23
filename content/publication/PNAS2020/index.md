@@ -19,6 +19,9 @@ abstract: International carbon markets are an appealing and increasingly popular
 
 featured: true
 
+tags: 
+- PNAS
+
 # links:
 # - name: ""
 #   url: ""
