@@ -20,8 +20,6 @@ abstract: "Demand for renewable energy is booming. Scholars often attribute this
 
 featured: true
 
-tags: 
-- Journal of Politics
 
 # links:
 # - name: ""
