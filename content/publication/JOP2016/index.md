@@ -1,11 +1,10 @@
 ---
-title: "It Is All about Political Incentives: Democracy and the Renewable Feed-in Tariff"
+title: "Foreignness as an Asset: European Carbon Regulation and the Relocation Threat among Multinational Firms"
 authors:
 - admin
-- Johannes Urpelainen
 
 author_notes:
-date: "2016-04-15"
+date: "2023-09-27"
 doi: ""
 
 # Publication type.
@@ -14,9 +13,9 @@ doi: ""
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Politics* 78(2): 603-619"
+publication: "*Journal of Politics* 85(4): 1291-1304"
 
-abstract: "Demand for renewable energy is booming. Scholars often attribute this success to feed-in tariffs (FITs), which mandate that energy utilities pay a premium to renewable electricity producers and guarantee grid access for them. Why have so many countries, including least-developed ones, adopted these policies? We hypothesize that democratic governments have political incentives to adopt the FIT because it improves environmental quality, promotes rural development, and distributes electricity generation profits from large utilities to independent producers. We analyze global data on FIT adoption, 1990–2012, and we find that the association between democratic regime type and FIT adoption overwhelms all other covariates. The effect is specific to the FIT and does not exist for renewable portfolio standards or public competitive bidding for renewable energy contracts. Consistent with theories of distributive politics, among democracies, institutional malapportionment in favor of rural political constituencies favors FIT adoption."
+abstract: "A central claim in the environmental regulation literature is that, in a globalized world economy, governments are willing to offer favorable regulation to firms that threaten to move their operations abroad. This logic, however, overlooks that firms' relocation threats are not equally credible. Focusing on variation in ownership structure, I argue that, even among generally mobile multinational corporations (MNCs), their foreign operations are more credibly movable, and hence more favorably regulated, than their operations at home. MNCs' country-specific investments into the economy and politics of their home markets drive this difference in relative mobility. An empirical analysis that relies on within-firm variation in ownership of MNCs' production sites across European countries and original plant-level carbon regulation data strongly support my argument: foreign ownership becomes an asset for favorable regulation. These findings highlight the need to account for mobility differences among MNCs."
 
 featured: true
 
@@ -26,9 +25,9 @@ tags:
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.journals.uchicago.edu/doi/abs/10.1086/684791?journalCode=jop
+url_pdf: https://www.journals.uchicago.edu/doi/abs/10.1086/724963
 url_code: 
-url_dataset: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Q0XAPV
+url_dataset: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LAXOSG
 url_poster: ''
 url_project: ''
 url_slides: ''
