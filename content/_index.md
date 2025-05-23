@@ -33,14 +33,14 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Latest Publications
+      title: Selected Publications
       filters:
         folders:
           - publication
         featured_only: true
     design:
       view: article-grid
-      columns: 3
+      columns: 4
   - block: collection
     content:
       title: All Publications
