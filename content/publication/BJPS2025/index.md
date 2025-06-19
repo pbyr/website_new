@@ -28,7 +28,7 @@ tags:
 # links:
 # - name: ""
 #   url: ""
-#url_pdf: 
+url_pdf: https://osf.io/5k8wy/ 
 #url_code: 
 #url_dataset: 
 #url_poster: ''
