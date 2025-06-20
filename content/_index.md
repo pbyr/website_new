@@ -41,6 +41,7 @@ sections:
     design:
       view: article-grid
       columns: 3
+	  limit: 6
   - block: collection
     content:
       title: All Publications
