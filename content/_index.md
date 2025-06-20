@@ -34,6 +34,7 @@ sections:
     id: papers
     content:
       title: Selected Publications
+      count: 6
       filters:
         folders:
           - publication
@@ -41,7 +42,6 @@ sections:
     design:
       view: article-grid
       columns: 3
-	  count: 6
   - block: collection
     content:
       title: All Publications
