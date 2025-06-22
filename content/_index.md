@@ -34,7 +34,7 @@ sections:
     id: papers
     content:
       title: Selected Publications
-      limit: 6
+      count: 6
       filters:
         folders:
           - publication
