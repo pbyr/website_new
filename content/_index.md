@@ -34,7 +34,6 @@ sections:
     id: papers
     content:
       title: Selected Publications
-      count: 10
       filters:
         folders:
           - publication
